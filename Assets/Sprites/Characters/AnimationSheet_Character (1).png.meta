@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0e5851da9cbf36341a39889acedbb603
+guid: 97fdc3ba1aa8e8048a002b229603596e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,315 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Satyr_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 320
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61deb2e6d4a9ed149ba087ff726a6ca5
-      internalID: -396753263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 320
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b11b86a5f3771542b85956cdc4dc1bf
-      internalID: 1118954569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 320
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3de8466f17091e488c3651858d9bbf0
-      internalID: 677191688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 320
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fde5f60c9c5aac14486f3c68a281855a
-      internalID: 156491764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 320
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 947aa5260b2927347a48fdd5f027cefa
-      internalID: 1987159713
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 320
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b764abc9b4221747934c60ff16b09c2
-      internalID: 239879506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 288
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 769ff92e21a47724a869f4d12fefc611
-      internalID: 1823237729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_7
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 288
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ecde6c31466a202409beff1868f7d0c2
-      internalID: -1098108748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_8
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 288
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 287df2c34c9edb74d9a5961acfab2435
-      internalID: -1792415773
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_9
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 288
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0dbd331fde0c55e4b962fbc43b006d2f
-      internalID: -2043506967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_10
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 288
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5f540194517ca74ca73c3e260d8ea3d
-      internalID: -192258163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_11
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 288
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91bbfc835bb8be8459c9a2e085513f3c
-      internalID: -504014535
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_12
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 288
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48955e4ac03c3c34d98d3600611378c5
-      internalID: -1758579305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_13
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 288
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef3eb17cebd3e254da5f7fdb25e2b0ee
-      internalID: 1224814595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_14
+      name: AnimationSheet_Character (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -433,14 +125,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 361d3353af7a3cd4dbaf0307a9eaa25f
-      internalID: 1497596302
+      spriteID: 7577b5973fe477c4cbadf204b5cfdb97
+      internalID: -79889681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_15
+      name: AnimationSheet_Character (1)_1
       rect:
         serializedVersion: 2
         x: 32
@@ -455,58 +147,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c6752dac146349459b7b0d541d20a67
-      internalID: 1650110050
+      spriteID: 9d0a73d0d5dcb6043b21895389dd0e12
+      internalID: 678574295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_16
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df6f8498f3a9a2a4cbea7a4822bb65e1
-      internalID: -359527096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_17
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0cbe24968d8838449a3d3595981afe0d
-      internalID: -2099155116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_18
+      name: AnimationSheet_Character (1)_2
       rect:
         serializedVersion: 2
         x: 0
@@ -521,14 +169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7c8be5e7849fc341af767f972401c78
-      internalID: 382482214
+      spriteID: 0b3969ff346cd234f80acb32ec39c2b4
+      internalID: -103178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_19
+      name: AnimationSheet_Character (1)_3
       rect:
         serializedVersion: 2
         x: 32
@@ -543,18 +191,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3efcb6b4bb9281d4994feb726eec7d41
-      internalID: 1183822711
+      spriteID: 94b75c91d1778d04db7525ac39d2311b
+      internalID: 1038738210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_20
+      name: AnimationSheet_Character (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650ce6eaf732054692592b1bc40486e
+      internalID: -243432748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2de4bfbc83a214490fec94d5843ee8
+      internalID: -1484589996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_6
       rect:
         serializedVersion: 2
         x: 64
-        y: 224
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -565,18 +257,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bf24e53acff91843bba2edae1d425b6
-      internalID: 1748232521
+      spriteID: 27cce882d186ee941a8cda0d61c6da72
+      internalID: -638442924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_21
+      name: AnimationSheet_Character (1)_7
       rect:
         serializedVersion: 2
         x: 96
-        y: 224
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -587,18 +279,106 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0554e2b52de1a341b0c13fa63889218
-      internalID: 1655374245
+      spriteID: 0fc2da6d2d061a54b8fb716cbc7d3563
+      internalID: 221234550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_22
+      name: AnimationSheet_Character (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02648d5047b9bf34cae274c2545f38b8
+      internalID: 1868488205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94767f2ef8ba0e243b66e7e2eb2fe71e
+      internalID: -989866253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495f6edbb5ece48408ffdfa131e72215
+      internalID: 1348757668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805812f6268220240a27f26269b69306
+      internalID: -226859732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_12
       rect:
         serializedVersion: 2
         x: 128
-        y: 224
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -609,18 +389,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c41cfab57ac58bf4ba1160b59d7b8a90
-      internalID: 894683101
+      spriteID: ad74d229b8eee364985f70c329e3bc87
+      internalID: 714872782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_23
+      name: AnimationSheet_Character (1)_13
       rect:
         serializedVersion: 2
         x: 160
-        y: 224
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -631,171 +411,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0533e73341b10844e90f1b70b8a97465
-      internalID: -1937893591
+      spriteID: f8cc8b34dbb1c7446a984553999bfae0
+      internalID: 242103385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_24
+      name: AnimationSheet_Character (1)_14
       rect:
         serializedVersion: 2
         x: 192
-        y: 224
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e76f9050eae90fa4583ba2f95bd75902
-      internalID: -1304689668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_25
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1d925b9c11ad7542b2fdfa7e67af310
-      internalID: -2046379565
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_26
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a6c05fa0c1e48a4e86fe243a211df01
-      internalID: 939874299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_27
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c492da6e9e4993459f803890ca232d9
-      internalID: -1991692668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_28
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0a4c9634245f4e419cd97ae93df3b45
-      internalID: -1192744186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_29
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00bf29f89eb002447838f55963160c33
-      internalID: 1436490396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_30
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1ad1ff023d55074d967aedd51173c24
-      internalID: -291038966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_31
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 160
         width: 32
         height: 32
@@ -807,282 +433,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25918b8ef7147fd4d876eb0290576395
-      internalID: -233135963
+      spriteID: 5eb437e3ea8ecf2439bd6c04c64c456c
+      internalID: -1050844036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_32
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c0041e2b42441947bc15da53cc35d0c
-      internalID: -421178341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_33
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5c12e6470c30244685eb64afa9dcc04
-      internalID: 1177717178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_34
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4442ea063815454e9d5c0483cb1d2d4
-      internalID: 1749019023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_35
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a17482db29a0496408debd0eae7cb7ee
-      internalID: -1692713558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_36
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c76252c8449eefc4a8800469497e5637
-      internalID: 2117576430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_37
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b42356b07b6eb194a92f215c395f5a47
-      internalID: 1805004937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_38
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 906b7978be188684e920f584ccf3bce8
-      internalID: -819801868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_39
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6483afb124090134d9b768788b429430
-      internalID: 1534971637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_40
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79327fb51bfe8b94fbe93b384735f934
-      internalID: 922687613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_41
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c465981d6f7e82b4a96331936a10b130
-      internalID: -1551477250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_42
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0034a17e8f593fa43aad03d404622863
-      internalID: 1574014271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_43
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 782993b17fdee8f44b68c22ec0c59ea6
-      internalID: -1706951068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_44
+      name: AnimationSheet_Character (1)_15
       rect:
         serializedVersion: 2
         x: 224
-        y: 128
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -1093,62 +455,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 303ac8b9bda7d4547acdaf1548be6779
-      internalID: -1416449301
+      spriteID: ec7b5f685a4ab2e469d7306ebbb29a86
+      internalID: -1018826218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_45
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65da2ef13ef457f438db320a1a41442e
-      internalID: 876717427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_46
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca544b87d017f7c4f9d9b2ce3212395b
-      internalID: 662749785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_47
+      name: AnimationSheet_Character (1)_16
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -1159,18 +477,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 882bf097b19bbb14cbb710bb8fd9bd9b
-      internalID: 1143734807
+      spriteID: 551bab129cf7b6a4cbf27cdb02f8a8d7
+      internalID: 508074132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_48
+      name: AnimationSheet_Character (1)_17
       rect:
         serializedVersion: 2
         x: 32
-        y: 96
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -1181,18 +499,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cf0de8b47ce6194c911ceb9be6d605e
-      internalID: -1674560077
+      spriteID: 1377fd81898a56440a7bc56376930832
+      internalID: 1449561066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_49
+      name: AnimationSheet_Character (1)_18
       rect:
         serializedVersion: 2
         x: 64
-        y: 96
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -1203,18 +521,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ca3ddfc3669ccf46990d08aea9489ef
-      internalID: -998153667
+      spriteID: 9820b832c24f8654eba08fb4d5111349
+      internalID: 523759266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_50
+      name: AnimationSheet_Character (1)_19
       rect:
         serializedVersion: 2
         x: 96
-        y: 96
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -1225,106 +543,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3ba7fb715e947a4a9af617eb0c50dc6
-      internalID: 1648143410
+      spriteID: 1d12d054743c63a44ab3e213ad2f3d71
+      internalID: 33872740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_51
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a609f44b53db62498ce4962326ecf3b
-      internalID: -1272581193
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_52
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd67cb6dec4322c4f84c5d750d4af9db
-      internalID: 875763428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_53
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d2b4adaeeb62b84ebd99bdc17ede536
-      internalID: 278926855
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_54
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 810f18da8042d734ca9dba5d751602e6
-      internalID: 1845721723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_55
+      name: AnimationSheet_Character (1)_20
       rect:
         serializedVersion: 2
         x: 128
-        y: 64
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -1335,17 +565,215 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d747ac8ab1d77d41ac479c8d60e0ae1
-      internalID: 347916362
+      spriteID: 894cfbe0c6c277746ae8ec6a10153621
+      internalID: 1706173947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_56
+      name: AnimationSheet_Character (1)_21
       rect:
         serializedVersion: 2
         x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b189a462cfd451248951c124697d9d21
+      internalID: 756302661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df962be21c1e824c9101e37961a5fb8
+      internalID: -779666417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafe3b993db066944851a27d87101813
+      internalID: 482403193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e58d586c3f7b36469f0eea9b36f5a0b
+      internalID: 888128988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1c62ebf274ec04eac8e2ea1a0475bc
+      internalID: 1440184497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1680d526c9f5a834a97ccd435b679959
+      internalID: -2054935602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41335196a6b13d47b48bfbd8a6bcb2b
+      internalID: 170124911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b145ea0a8e3c35241b2d30f23c85e319
+      internalID: 1278734449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f048dfa13a3929643ae9eb1e54da82f1
+      internalID: 1349663266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_30
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 64
         width: 32
         height: 32
@@ -1357,14 +785,80 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddf4f0f02dfe65d4bb141a3392dad6a1
-      internalID: -551317139
+      spriteID: b07aea75a1c5525409325d555a79c6a7
+      internalID: -67440856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_57
+      name: AnimationSheet_Character (1)_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b14350a716178499b6a757469a11e2
+      internalID: 1778843079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa947f979f4b7ba428d060819916f6aa
+      internalID: -1862954359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1412c880687801d4bbcf2ad8276607f3
+      internalID: -1217956330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSheet_Character (1)_34
       rect:
         serializedVersion: 2
         x: 0
@@ -1379,14 +873,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ce88d9e323b0cc46b3b82de759338c6
-      internalID: 31389505
+      spriteID: 9e248443c2d62cf449330cff0981ed2e
+      internalID: 1922604397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_58
+      name: AnimationSheet_Character (1)_35
       rect:
         serializedVersion: 2
         x: 32
@@ -1401,14 +895,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 175be219d30464f4fb236d18f0cdc116
-      internalID: -659599812
+      spriteID: 6030e2eb342a226458a0aff6053ced18
+      internalID: -2031178260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_59
+      name: AnimationSheet_Character (1)_36
       rect:
         serializedVersion: 2
         x: 64
@@ -1423,14 +917,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28ec88d2eee64d146aa028ea526b5a5d
-      internalID: -99201409
+      spriteID: 5b65684cd79e395439fbaa76d663a3ec
+      internalID: 1992083310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_60
+      name: AnimationSheet_Character (1)_37
       rect:
         serializedVersion: 2
         x: 96
@@ -1445,14 +939,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 792a068154f1e1841b28f86d8ad9b2e4
-      internalID: 969275091
+      spriteID: 51515dc323e12b344b8b15c3a5a3f8bd
+      internalID: -740567283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_61
+      name: AnimationSheet_Character (1)_38
       rect:
         serializedVersion: 2
         x: 128
@@ -1467,14 +961,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca1e854f6fb44f2458e1575608338e56
-      internalID: -514523749
+      spriteID: 8b5748eaab01cec4da0680da20e68149
+      internalID: 377220969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_62
+      name: AnimationSheet_Character (1)_39
       rect:
         serializedVersion: 2
         x: 160
@@ -1489,14 +983,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af226f09563e32c43850396b4481899b
-      internalID: -1559421556
+      spriteID: 2047e52c60b03ac429ed29178871356b
+      internalID: 20887918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_63
+      name: AnimationSheet_Character (1)_40
       rect:
         serializedVersion: 2
         x: 192
@@ -1511,14 +1005,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0eab20886fb624c4b810307a7f35f916
-      internalID: -599500698
+      spriteID: 63b8ed1cc7dcd63469e4ba8b0d1ab7e9
+      internalID: -495328500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_64
+      name: AnimationSheet_Character (1)_41
       rect:
         serializedVersion: 2
         x: 224
@@ -1533,58 +1027,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2471cfe8f33b1354f9704bea71ea0455
-      internalID: -1370434767
+      spriteID: 2259dc465c541ed4a90af34327d9c811
+      internalID: -1627837529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_65
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1ba2e9c47e67014b878d044e0b66b52
-      internalID: 1066620250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_66
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d68514f1ba4f364989fbe3240e1cbca
-      internalID: -1577249712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_67
+      name: AnimationSheet_Character (1)_42
       rect:
         serializedVersion: 2
         x: 0
@@ -1599,14 +1049,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e540d76809ec854f9553c0e0e036158
-      internalID: -1500761161
+      spriteID: 8b37715cf94f9ad409b268904bbf2275
+      internalID: 773349307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_68
+      name: AnimationSheet_Character (1)_43
       rect:
         serializedVersion: 2
         x: 32
@@ -1621,14 +1071,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbffc378592ba2241a39302f9c100e84
-      internalID: 1437232336
+      spriteID: 1df1118cc361f3f4cb2883edf3a67d4b
+      internalID: -955576094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_69
+      name: AnimationSheet_Character (1)_44
       rect:
         serializedVersion: 2
         x: 64
@@ -1643,14 +1093,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2746a22e84e8364d8b196c8bca32f7e
-      internalID: -1338804395
+      spriteID: a95423aeb00d8ed44ada1d7797e07e80
+      internalID: -481294508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_70
+      name: AnimationSheet_Character (1)_45
       rect:
         serializedVersion: 2
         x: 96
@@ -1665,14 +1115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc981892bd33b5e49b8ab983a341c378
-      internalID: -1742484489
+      spriteID: 666ac98c15014c041846bfafd67dbf5c
+      internalID: 1808278439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_71
+      name: AnimationSheet_Character (1)_46
       rect:
         serializedVersion: 2
         x: 128
@@ -1687,14 +1137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfebe5ae10ff0264b828a575964e527a
-      internalID: 1941444542
+      spriteID: cac0bfa67b0d4bd48976161b42c0b8f4
+      internalID: 190660111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_72
+      name: AnimationSheet_Character (1)_47
       rect:
         serializedVersion: 2
         x: 160
@@ -1709,14 +1159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5a4cab77541bc841a1fbfcaf3f3c736
-      internalID: 297071519
+      spriteID: 905340b4a85b53244bd7deec59a2b4eb
+      internalID: -1297420658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_73
+      name: AnimationSheet_Character (1)_48
       rect:
         serializedVersion: 2
         x: 192
@@ -1731,14 +1181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 882ef11c31f9f04469c39239a11eb272
-      internalID: -603691249
+      spriteID: 11e2d7b2ebfc9004e986b9c3efac5d34
+      internalID: -2077038917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Satyr_74
+      name: AnimationSheet_Character (1)_49
       rect:
         serializedVersion: 2
         x: 224
@@ -1753,52 +1203,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e52b8171fab1c0044bb57525a8038875
-      internalID: -1539044377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_75
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d62f181c5e777064ba948175661f6943
-      internalID: -1195622515
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Satyr_76
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b70ecc95cc0ff2940943f7bf8d175142
-      internalID: -895848125
+      spriteID: ef0a17191ac9c564fa67af600c80f64d
+      internalID: 1057973476
       vertices: []
       indices: 
       edges: []
@@ -1807,7 +1213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9015a09a77eb18243afa5da6bd3fae50
+    spriteID: b0f25dcc722d74944b118c026f9b8daf
     internalID: 0
     vertices: []
     indices: 
@@ -1819,83 +1225,56 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Satyr_0: -396753263
-      Satyr_1: 1118954569
-      Satyr_10: -192258163
-      Satyr_11: -504014535
-      Satyr_12: -1758579305
-      Satyr_13: 1224814595
-      Satyr_14: 1497596302
-      Satyr_15: 1650110050
-      Satyr_16: -359527096
-      Satyr_17: -2099155116
-      Satyr_18: 382482214
-      Satyr_19: 1183822711
-      Satyr_2: 677191688
-      Satyr_20: 1748232521
-      Satyr_21: 1655374245
-      Satyr_22: 894683101
-      Satyr_23: -1937893591
-      Satyr_24: -1304689668
-      Satyr_25: -2046379565
-      Satyr_26: 939874299
-      Satyr_27: -1991692668
-      Satyr_28: -1192744186
-      Satyr_29: 1436490396
-      Satyr_3: 156491764
-      Satyr_30: -291038966
-      Satyr_31: -233135963
-      Satyr_32: -421178341
-      Satyr_33: 1177717178
-      Satyr_34: 1749019023
-      Satyr_35: -1692713558
-      Satyr_36: 2117576430
-      Satyr_37: 1805004937
-      Satyr_38: -819801868
-      Satyr_39: 1534971637
-      Satyr_4: 1987159713
-      Satyr_40: 922687613
-      Satyr_41: -1551477250
-      Satyr_42: 1574014271
-      Satyr_43: -1706951068
-      Satyr_44: -1416449301
-      Satyr_45: 876717427
-      Satyr_46: 662749785
-      Satyr_47: 1143734807
-      Satyr_48: -1674560077
-      Satyr_49: -998153667
-      Satyr_5: 239879506
-      Satyr_50: 1648143410
-      Satyr_51: -1272581193
-      Satyr_52: 875763428
-      Satyr_53: 278926855
-      Satyr_54: 1845721723
-      Satyr_55: 347916362
-      Satyr_56: -551317139
-      Satyr_57: 31389505
-      Satyr_58: -659599812
-      Satyr_59: -99201409
-      Satyr_6: 1823237729
-      Satyr_60: 969275091
-      Satyr_61: -514523749
-      Satyr_62: -1559421556
-      Satyr_63: -599500698
-      Satyr_64: -1370434767
-      Satyr_65: 1066620250
-      Satyr_66: -1577249712
-      Satyr_67: -1500761161
-      Satyr_68: 1437232336
-      Satyr_69: -1338804395
-      Satyr_7: -1098108748
-      Satyr_70: -1742484489
-      Satyr_71: 1941444542
-      Satyr_72: 297071519
-      Satyr_73: -603691249
-      Satyr_74: -1539044377
-      Satyr_75: -1195622515
-      Satyr_76: -895848125
-      Satyr_8: -1792415773
-      Satyr_9: -2043506967
+      AnimationSheet_Character (1)_0: -79889681
+      AnimationSheet_Character (1)_1: 678574295
+      AnimationSheet_Character (1)_10: 1348757668
+      AnimationSheet_Character (1)_11: -226859732
+      AnimationSheet_Character (1)_12: 714872782
+      AnimationSheet_Character (1)_13: 242103385
+      AnimationSheet_Character (1)_14: -1050844036
+      AnimationSheet_Character (1)_15: -1018826218
+      AnimationSheet_Character (1)_16: 508074132
+      AnimationSheet_Character (1)_17: 1449561066
+      AnimationSheet_Character (1)_18: 523759266
+      AnimationSheet_Character (1)_19: 33872740
+      AnimationSheet_Character (1)_2: -103178
+      AnimationSheet_Character (1)_20: 1706173947
+      AnimationSheet_Character (1)_21: 756302661
+      AnimationSheet_Character (1)_22: -779666417
+      AnimationSheet_Character (1)_23: 482403193
+      AnimationSheet_Character (1)_24: 888128988
+      AnimationSheet_Character (1)_25: 1440184497
+      AnimationSheet_Character (1)_26: -2054935602
+      AnimationSheet_Character (1)_27: 170124911
+      AnimationSheet_Character (1)_28: 1278734449
+      AnimationSheet_Character (1)_29: 1349663266
+      AnimationSheet_Character (1)_3: 1038738210
+      AnimationSheet_Character (1)_30: -67440856
+      AnimationSheet_Character (1)_31: 1778843079
+      AnimationSheet_Character (1)_32: -1862954359
+      AnimationSheet_Character (1)_33: -1217956330
+      AnimationSheet_Character (1)_34: 1922604397
+      AnimationSheet_Character (1)_35: -2031178260
+      AnimationSheet_Character (1)_36: 1992083310
+      AnimationSheet_Character (1)_37: -740567283
+      AnimationSheet_Character (1)_38: 377220969
+      AnimationSheet_Character (1)_39: 20887918
+      AnimationSheet_Character (1)_4: -243432748
+      AnimationSheet_Character (1)_40: -495328500
+      AnimationSheet_Character (1)_41: -1627837529
+      AnimationSheet_Character (1)_42: 773349307
+      AnimationSheet_Character (1)_43: -955576094
+      AnimationSheet_Character (1)_44: -481294508
+      AnimationSheet_Character (1)_45: 1808278439
+      AnimationSheet_Character (1)_46: 190660111
+      AnimationSheet_Character (1)_47: -1297420658
+      AnimationSheet_Character (1)_48: -2077038917
+      AnimationSheet_Character (1)_49: 1057973476
+      AnimationSheet_Character (1)_5: -1484589996
+      AnimationSheet_Character (1)_6: -638442924
+      AnimationSheet_Character (1)_7: 221234550
+      AnimationSheet_Character (1)_8: 1868488205
+      AnimationSheet_Character (1)_9: -989866253
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

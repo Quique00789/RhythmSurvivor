@@ -37,10 +37,12 @@ MonoBehaviour:
       dropChance: 0.01
       coinType: 1
   walkSpriteSequence:
-  - {fileID: 917104541, guid: 4a53ef156a05949b693de4f347057d87, type: 3}
-  - {fileID: -1159827789, guid: 4a53ef156a05949b693de4f347057d87, type: 3}
-  - {fileID: -1498753039, guid: 4a53ef156a05949b693de4f347057d87, type: 3}
-  - {fileID: -1711853846, guid: 4a53ef156a05949b693de4f347057d87, type: 3}
+  - {fileID: -1877305219, guid: f032d9b0d425888418727e1c265148bb, type: 3}
+  - {fileID: 1350222805, guid: f032d9b0d425888418727e1c265148bb, type: 3}
+  - {fileID: 1877294477, guid: f032d9b0d425888418727e1c265148bb, type: 3}
+  - {fileID: 1930918406, guid: f032d9b0d425888418727e1c265148bb, type: 3}
+  - {fileID: 205632104, guid: f032d9b0d425888418727e1c265148bb, type: 3}
+  - {fileID: -1814976308, guid: f032d9b0d425888418727e1c265148bb, type: 3}
   walkFrameTime: 0.2
   meleeLayer:
     serializedVersion: 2
