@@ -9,9 +9,11 @@ namespace Vampire
         [SerializeField] protected CharacterBlueprint[] characterBlueprints;
         [SerializeField] protected GameObject characterCardPrefab;
         [SerializeField] protected CoinDisplay coinDisplay;
+        [SerializeField] private GameObject levelSelector; // Agrega esto
 
         private CharacterCard[] characterCards;
-        
+        private int selectedLevel = 1;
+
         public void Init()
         {
             characterCards = new CharacterCard[characterBlueprints.Length];
@@ -26,11 +28,19 @@ namespace Vampire
                 characterCards[i].UpdateLayout();
             }
         }
-        
+
+        public void SetLevel(int levelIndex)
+        {
+            selectedLevel = levelIndex;
+            // Oculta los botones al seleccionar nivel
+            if (levelSelector != null)
+                levelSelector.SetActive(false);
+        }
+
         public void StartGame(CharacterBlueprint characterBlueprint)
         {
             CrossSceneData.CharacterBlueprint = characterBlueprint;
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(selectedLevel);
         }
     }
 }

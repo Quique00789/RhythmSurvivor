@@ -2595,7 +2595,6 @@ GameObject:
   - component: {fileID: 856782961}
   - component: {fileID: 856782959}
   - component: {fileID: 856782960}
-  - component: {fileID: 856782962}
   m_Layer: 9
   m_Name: "\u89D2\u8272"
   m_TagString: Untagged
@@ -2928,29 +2927,6 @@ MonoBehaviour:
   hitMaterial: {fileID: 2100000, guid: 82ebeb73078cc4145aa889870d58ae0a, type: 2}
   deathMaterial: {fileID: 2100000, guid: a3417b1068f7c4e129b88a8aa9254c5b, type: 2}
   deathParticles: {fileID: 869581549}
---- !u!114 &856782962
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 856782952}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6fe2fb0f20f742429b943611ccd71f5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Vampire.DecorationSpawner
-  decorationPrefabs:
-  - {fileID: 5514205916809921187, guid: 97b144cd29ef43e4eb5fd97af3318813, type: 3}
-  - {fileID: 1550059007827456091, guid: 3baaadcc51c312f4b924ed6b92a7bfb9, type: 3}
-  - {fileID: 3231101080195221531, guid: 63c16dfae834cb449849b9fd567a73c2, type: 3}
-  - {fileID: 6256238090703846125, guid: d7af346b8c5968a47b66b2feac8d8022, type: 3}
-  - {fileID: 7627745798477004501, guid: c254d409a7bfda4439e425dd51658de5, type: 3}
-  playerTransform: {fileID: 571655681}
-  spawnRadius: 6
-  despawnRadius: 10
-  maxDecorations: 50
-  spawnInterval: 0.3
 --- !u!1 &869581548
 GameObject:
   m_ObjectHideFlags: 0
@@ -19594,7 +19570,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6e809e8c06884d9d86b735fedb25b6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelBlueprint: {fileID: 11400000, guid: ace7cd4ef65de4d9787fe14e2a0f8c92, type: 2}
+  levelBlueprint: {fileID: 11400000, guid: a4100ec494828d04f93b4e4b85532faf, type: 2}
   playerCharacter: {fileID: 856782961}
   entityManager: {fileID: 1547352219}
   abilityManager: {fileID: 1727210731}

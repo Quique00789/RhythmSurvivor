@@ -19594,7 +19594,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6e809e8c06884d9d86b735fedb25b6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelBlueprint: {fileID: 11400000, guid: ace7cd4ef65de4d9787fe14e2a0f8c92, type: 2}
+  levelBlueprint: {fileID: 11400000, guid: 22a4a89b9f3791244b6058fe73ada351, type: 2}
   playerCharacter: {fileID: 856782961}
   entityManager: {fileID: 1547352219}
   abilityManager: {fileID: 1727210731}
