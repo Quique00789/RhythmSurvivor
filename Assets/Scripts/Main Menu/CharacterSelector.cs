@@ -14,8 +14,27 @@ namespace Vampire
         private CharacterCard[] characterCards;
         private int selectedLevel = 1;
 
+        private void OnEnable()
+        {
+            // Reset state when the menu is opened
+            if (levelSelector != null)
+                levelSelector.SetActive(false);
+
+            if (characterCards != null)
+            {
+                for (int i = 0; i < characterCards.Length; i++)
+                {
+                    if (characterCards[i] != null)
+                        characterCards[i].gameObject.SetActive(true);
+                }
+            }
+        }
+
         public void Init()
         {
+            if (levelSelector != null)
+                levelSelector.SetActive(false); // Hide level selector at start
+
             characterCards = new CharacterCard[characterBlueprints.Length];
             for (int i = 0; i < characterBlueprints.Length; i++)
             {
@@ -35,12 +54,45 @@ namespace Vampire
             // Oculta los botones al seleccionar nivel
             if (levelSelector != null)
                 levelSelector.SetActive(false);
+
+            // Start the game now that level is selected
+            SceneManager.LoadScene(selectedLevel);
         }
 
         public void StartGame(CharacterBlueprint characterBlueprint)
         {
+            // Instead of starting the game, show the level selector
             CrossSceneData.CharacterBlueprint = characterBlueprint;
-            SceneManager.LoadScene(selectedLevel);
+            
+            // Hide character cards so it looks like a new menu
+            for (int i = 0; i < characterCards.Length; i++)
+            {
+                if (characterCards[i] != null)
+                    characterCards[i].gameObject.SetActive(false);
+            }
+
+            if (levelSelector != null)
+                levelSelector.SetActive(true);
+        }
+
+        // Método para el botón de regresar/cerrar (la tachita)
+        public void GoBack()
+        {
+            // Si el selector de niveles está activo, regresamos a la selección de personaje
+            if (levelSelector != null && levelSelector.activeSelf)
+            {
+                levelSelector.SetActive(false);
+                for (int i = 0; i < characterCards.Length; i++)
+                {
+                    if (characterCards[i] != null)
+                        characterCards[i].gameObject.SetActive(true);
+                }
+            }
+            else
+            {
+                // Si estamos en la selección de personajes, cerramos el menú entero
+                this.gameObject.SetActive(false);
+            }
         }
     }
 }
