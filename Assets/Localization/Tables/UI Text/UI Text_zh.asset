@@ -10,32 +10,32 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: UI Text_zh
+  m_Name: UI Text_es
   m_EditorClassIdentifier: 
   m_LocaleId:
-    m_Code: zh
+    m_Code: es
   m_SharedData: {fileID: 11400000, guid: 38da8409a015b47cdb8b217717c1c92c, type: 2}
   m_Metadata:
     m_Items: []
   m_TableData:
   - m_Id: 123949015040
-    m_Localized: "\u5438\u8840\u9B3C\u5E78\u5B58\u8005\u514B\u9686\u7248"
+    m_Localized: Clon de Vampire Survivors
     m_Metadata:
       m_Items: []
   - m_Id: 1437881851904
-    m_Localized: "\u5F00\u59CB"
+    m_Localized: Iniciar
     m_Metadata:
       m_Items: []
   - m_Id: 5889980358656
-    m_Localized: "\u5546\u57CE"
+    m_Localized: Tienda
     m_Metadata:
       m_Items: []
   - m_Id: 6373831073792
-    m_Localized: "\u5F3A\u5316"
+    m_Localized: Mejoras
     m_Metadata:
       m_Items: []
   - m_Id: 334637481058304
-    m_Localized: "\u89D2\u8272\u9009\u62E9"
+    m_Localized: "Selecci\xF3n de Personaje"
     m_Metadata:
       m_Items: []
   references:
