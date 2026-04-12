@@ -35,6 +35,9 @@ namespace Vampire
 
         protected override void OnCollected()
         {
+            // Registra las monedas según el valor del tipo recogido
+            CoinManager.Instance.AddCoins((int)coinType);
+
             entityManager.DespawnCoin(this);
         }
     }
