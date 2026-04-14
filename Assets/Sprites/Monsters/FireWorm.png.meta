@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 99826d9573a562d43b2de9785f00aeff
+guid: ced363a1dd65bb441be1ff112247a750
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -93,19 +93,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -114,19 +101,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 7
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 32
+        width: 64
+        height: 58
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0707a08f7fe856f4ba7781947395bd9d
-      internalID: -1348607033
+      spriteID: 47b349ce133063a4c9494d2aeb91172c
+      internalID: -741708457
       vertices: []
       indices: 
       edges: []
@@ -136,19 +123,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 97
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 32
+        width: 64
+        height: 58
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2577c618d7e70cb4c86dd4763219bb8f
-      internalID: -782779752
+      spriteID: b0a95971d11d40f41b002c153c6b34e2
+      internalID: -1296705316
       vertices: []
       indices: 
       edges: []
@@ -158,19 +145,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 187
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 32
+        width: 64
+        height: 58
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa00862595bfd3f4688d2f32362f86cd
-      internalID: 1806918022
+      spriteID: c3244dc245f07264ba576f4d9eb4fc73
+      internalID: -1374219298
       vertices: []
       indices: 
       edges: []
@@ -180,19 +167,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 277
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 32
+        width: 64
+        height: 58
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bcc8dcaa976f224cac1861dde84f27f
-      internalID: -16015344
+      spriteID: 97de5565d82367d48b39b76716d855f3
+      internalID: 1910570641
       vertices: []
       indices: 
       edges: []
@@ -202,19 +189,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 367
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 32
+        width: 64
+        height: 58
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82bd99c68f50aec43bdfb3b338f6f9b3
-      internalID: -1466841180
+      spriteID: 594e9e8425655bb4aa0f2a802dcc4503
+      internalID: 508623803
       vertices: []
       indices: 
       edges: []
@@ -224,19 +211,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 457
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 32
+        width: 64
+        height: 58
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc71bba92fb2ebc498ae62bf4f66f946
-      internalID: -813376345
+      spriteID: 58fb158d691385e49aa8a1a3e5410f71
+      internalID: 1750426500
       vertices: []
       indices: 
       edges: []
@@ -246,19 +233,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 547
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 32
+        width: 64
+        height: 58
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc32a77f8da7ebc4bb3dbbb74e2cddee
-      internalID: -188983500
+      spriteID: cf7dacb83da1e364aa22f1e0227897ef
+      internalID: 1126609095
       vertices: []
       indices: 
       edges: []
@@ -268,19 +255,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 637
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 32
+        width: 64
+        height: 58
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3ab63a58881bd64e94e78fead433561
-      internalID: -206323765
+      spriteID: 8fb70cf16bdc199448e2b8700527071e
+      internalID: -854848774
       vertices: []
       indices: 
       edges: []
@@ -290,173 +277,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 727
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 32
+        width: 64
+        height: 58
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7367c0e9a204f1e44a68013bb53d9dc9
-      internalID: 1046681070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FireWorm_9
-      rect:
-        serializedVersion: 2
-        x: 817
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4deaf85270325f449fd35dc98643813
-      internalID: -355541603
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FireWorm_10
-      rect:
-        serializedVersion: 2
-        x: 907
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b457ec95a164ea4abd3a184a28bf9da
-      internalID: -1436337574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FireWorm_11
-      rect:
-        serializedVersion: 2
-        x: 997
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be6a657197b1ed64db00f1e746ade1f1
-      internalID: -2093103709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FireWorm_12
-      rect:
-        serializedVersion: 2
-        x: 1087
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b3af9e203d62e346a009ac67f9835fd
-      internalID: 394410712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FireWorm_13
-      rect:
-        serializedVersion: 2
-        x: 1177
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69cd3bfcfa198ee4eb8fe6b725723d15
-      internalID: 343043253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FireWorm_14
-      rect:
-        serializedVersion: 2
-        x: 1267
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 060078c87fd5d684ba7718038b9d6669
-      internalID: -476726600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FireWorm_15
-      rect:
-        serializedVersion: 2
-        x: 1357
-        y: 0
-        width: 68
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8012256ffaa7be3499b8307f7e9d92ee
-      internalID: -1541764355
+      spriteID: a1295fc54f1769443aefa8ddc8919a6e
+      internalID: 2096079461
       vertices: []
       indices: 
       edges: []
@@ -465,7 +298,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ca84a1e4b10b6cf46bcc90d3c5981a2b
+    spriteID: 624796c25c9f323469d94f8c6b982bf4
     internalID: 0
     vertices: []
     indices: 
@@ -474,25 +307,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries:
+      - key: SpriteEditor.SliceOnImport
+        value: True
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":1.0},"gridSpriteSize":{"x":68.0,"y":83.0},"gridSpriteOffset":{"x":7.0,"y":7.0},"gridSpritePadding":{"x":22.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":58.0},"gridSpriteOffset":{"x":7.0,"y":0.0},"gridSpritePadding":{"x":26.0,"y":0.0},"pivot":{"x":1.0,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":5,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      FireWorm_0: -1348607033
-      FireWorm_1: -782779752
-      FireWorm_10: -1436337574
-      FireWorm_11: -2093103709
-      FireWorm_12: 394410712
-      FireWorm_13: 343043253
-      FireWorm_14: -476726600
-      FireWorm_15: -1541764355
-      FireWorm_2: 1806918022
-      FireWorm_3: -16015344
-      FireWorm_4: -1466841180
-      FireWorm_5: -813376345
-      FireWorm_6: -188983500
-      FireWorm_7: -206323765
-      FireWorm_8: 1046681070
-      FireWorm_9: -355541603
+      FireWorm_0: -741708457
+      FireWorm_1: -1296705316
+      FireWorm_2: -1374219298
+      FireWorm_3: 1910570641
+      FireWorm_4: 508623803
+      FireWorm_5: 1750426500
+      FireWorm_6: 1126609095
+      FireWorm_7: -854848774
+      FireWorm_8: 2096079461
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

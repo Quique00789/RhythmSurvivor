@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Vampire.SkillData
   skillId: damage_boost
   displayName: Fuerza Oscura
-  description: 
+  description: "Mas da\xF1o por golpe. Acaba con ellos antes."
   cost: 40
   icon: {fileID: 0}
