@@ -31,8 +31,6 @@ namespace Vampire
         {
             base.Open();
             menuOpen = true;
-            Time.timeScale = 0;
-            pauseMenu.TimeIsFrozen = true;
             particles.SetActive(true);
 
             // Select abilities/upgrades to display
@@ -73,8 +71,6 @@ namespace Vampire
         {
             abilityManager.ReturnAbilities(displayedAbilities);
             menuOpen = false;
-            Time.timeScale = 1;
-            pauseMenu.TimeIsFrozen = false;
             particles.SetActive(false);
             base.Close();
         }

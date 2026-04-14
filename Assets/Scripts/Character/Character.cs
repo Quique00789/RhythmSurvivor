@@ -168,10 +168,8 @@ namespace Vampire
                 // Open the level up dialog menu
                 abilitySelectionDialog.Open();
                 // Wait for the menu to be closed
-                while (abilitySelectionDialog.MenuOpen)
-                {
-                    yield return null;
-                }
+                yield return null;
+                
             }
         }
 

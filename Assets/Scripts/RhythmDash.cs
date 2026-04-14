@@ -1,5 +1,4 @@
 using UnityEngine;
-using System.Linq;
 
 namespace Vampire
 {
@@ -15,21 +14,12 @@ namespace Vampire
         public float dashDamage = 10f;
         public float invulnerabilityTime = 1.5f;
 
-        [Header("Rhythm")]
-        public float bpm = 270f;
-        public float beatWindow = 0.07f;
-
-        float beatInterval;
-        float lastBeatTime;
-
         bool dashing = false;
 
         void Start()
         {
             character = GetComponent<Character>();
             rb = character.RB;
-
-            beatInterval = 60f / bpm;
         }
 
         void Update()
@@ -44,27 +34,38 @@ namespace Vampire
         {
             if (dashing) return;
 
-            bool perfectTiming = CheckBeat();
+            // 🎯 NUEVO SISTEMA DE RITMO (con notas)
+            var result = RhythmNotes.Instance.CheckHit(true); // intenta nota grande
+
+            // si no acertó grande, intenta pequeña
+            if (result == RhythmNotes.HitResult.Miss)
+            {
+                result = RhythmNotes.Instance.CheckHit(false);
+            }
 
             Monster target = GetClosestEnemy();
-
             if (target == null) return;
 
             Vector2 dir = (target.transform.position - transform.position).normalized;
 
-            if (perfectTiming)
-                StartCoroutine(PerfectDash(dir, target));
-            else
-                StartCoroutine(BadDash(dir));
-        }
+            switch (result)
+            {
+                case RhythmNotes.HitResult.Perfect:
+                    if (DashVisualFeedback.Instance != null)
+                        DashVisualFeedback.Instance.TriggerEffect(true);
+                    StartCoroutine(PerfectDash(dir, target, 1.2f)); // boost
+                    break;
 
-        bool CheckBeat()
-        {
-            float songTime = Time.time;
+                case RhythmNotes.HitResult.Good:
+                    if (DashVisualFeedback.Instance != null)
+                        DashVisualFeedback.Instance.TriggerEffect(false);
+                    StartCoroutine(PerfectDash(dir, target, 1f)); // normal
+                    break;
 
-            float mod = songTime % beatInterval;
-
-            return mod < beatWindow || mod > beatInterval - beatWindow;
+                case RhythmNotes.HitResult.Miss:
+                    StartCoroutine(BadDash(dir));
+                    break;
+            }
         }
 
         Monster GetClosestEnemy()
@@ -90,7 +91,7 @@ namespace Vampire
             return closest;
         }
 
-        System.Collections.IEnumerator PerfectDash(Vector2 dir, Monster target)
+        System.Collections.IEnumerator PerfectDash(Vector2 dir, Monster target, float multiplier)
         {
             dashing = true;
 
@@ -101,13 +102,16 @@ namespace Vampire
 
             while (t < time)
             {
-                rb.linearVelocity = dir * dashSpeed;
+                rb.linearVelocity = dir * dashSpeed * multiplier;
                 t += Time.deltaTime;
                 yield return null;
             }
 
             if (target != null)
-                target.TakeDamage(dashDamage, dir * 3f);
+            {
+                float finalDamage = dashDamage * multiplier;
+                target.TakeDamage(finalDamage, dir * 3f);
+            }
 
             rb.linearVelocity = Vector2.zero;
 

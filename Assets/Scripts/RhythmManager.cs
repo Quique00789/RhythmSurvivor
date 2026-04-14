@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class RhythmManager : MonoBehaviour
 {
-    public static RhythmManager Instance;
+    public static RhythmManager instance;
 
     public AudioSource music;
 
@@ -13,7 +13,7 @@ public class RhythmManager : MonoBehaviour
 
     void Awake()
     {
-        Instance = this;
+        instance = this;
     }
 
     void Start()

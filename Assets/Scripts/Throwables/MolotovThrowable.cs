@@ -27,11 +27,13 @@ namespace Vampire
         protected IEnumerator Burn()
         {
             throwableSpriteRenderer.enabled = false;
+            shadowSpriteRenderer.enabled = false;
             molotovFire.gameObject.SetActive(true);
             molotovExplosion.Play();
             yield return StartCoroutine(molotovFire.Burn(this, damage, knockback, duration, fireRadius, fireDamageRate, targetLayer));
             molotovFire.gameObject.SetActive(false);
             throwableSpriteRenderer.enabled = true;
+            shadowSpriteRenderer.enabled = true;
             DestroyThrowable();
         }
 
