@@ -27,7 +27,7 @@ namespace Vampire
         public void Init(Texture2D backgroundTexture, Transform playerTransform)
         {
             this.playerTransform = playerTransform;
-            backgroundMaterial.mainTexture = backgroundTexture;
+            //backgroundMaterial.mainTexture = backgroundTexture;
             backgroundMaterial.SetFloat("_Shockwave", 0);
             resetOffset = Vector2.zero;
             backgroundMaterial.SetVector("_ResetOffset", resetOffset);
