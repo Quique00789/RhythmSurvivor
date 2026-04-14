@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ced363a1dd65bb441be1ff112247a750
+guid: 11c577c6d2ed63943949eb99c4e4f1c2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,199 +97,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FireWorm_0
+      name: EyeMonster_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 20
+        y: 0
+        width: 174
+        height: 176
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47b349ce133063a4c9494d2aeb91172c
-      internalID: -741708457
+      spriteID: 220300fb17b007e4e8cf9af6053d2625
+      internalID: 2057765533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_1
+      name: EyeMonster_1
       rect:
         serializedVersion: 2
-        x: 97
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 194
+        y: 0
+        width: 174
+        height: 176
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0a95971d11d40f41b002c153c6b34e2
-      internalID: -1296705316
+      spriteID: ff8897ce448ac904f8613b228c63d406
+      internalID: 465018684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_2
+      name: EyeMonster_2
       rect:
         serializedVersion: 2
-        x: 187
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 368
+        y: 0
+        width: 174
+        height: 176
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3244dc245f07264ba576f4d9eb4fc73
-      internalID: -1374219298
+      spriteID: 46f11d648cfcc60478ddab805bea39fb
+      internalID: 1795469978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_3
+      name: EyeMonster_3
       rect:
         serializedVersion: 2
-        x: 277
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 542
+        y: 0
+        width: 174
+        height: 176
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97de5565d82367d48b39b76716d855f3
-      internalID: 1910570641
+      spriteID: 5870a6a07c60e214c91ed4a1dbbe9400
+      internalID: -2031067753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_4
+      name: EyeMonster_4
       rect:
         serializedVersion: 2
-        x: 367
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 716
+        y: 0
+        width: 174
+        height: 176
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 594e9e8425655bb4aa0f2a802dcc4503
-      internalID: 508623803
+      spriteID: a9398170634d5c14f90531bbdbadb79f
+      internalID: 588848562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_5
+      name: EyeMonster_5
       rect:
         serializedVersion: 2
-        x: 457
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 890
+        y: 0
+        width: 174
+        height: 176
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58fb158d691385e49aa8a1a3e5410f71
-      internalID: 1750426500
+      spriteID: a6ea3591dc61da94dac80660f3db52e0
+      internalID: 1467590473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_6
+      name: EyeMonster_6
       rect:
         serializedVersion: 2
-        x: 547
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 1064
+        y: 0
+        width: 174
+        height: 176
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf7dacb83da1e364aa22f1e0227897ef
-      internalID: 1126609095
+      spriteID: 94eb9a34671ec5d4eaa3bd95c8f32d8c
+      internalID: -839222343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_7
+      name: EyeMonster_7
       rect:
         serializedVersion: 2
-        x: 637
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 1238
+        y: 0
+        width: 174
+        height: 176
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fb70cf16bdc199448e2b8700527071e
-      internalID: -854848774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FireWorm_8
-      rect:
-        serializedVersion: 2
-        x: 727
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1295fc54f1769443aefa8ddc8919a6e
-      internalID: 2096079461
+      spriteID: fd76d278f1970ec4bb2c564628dc0cf9
+      internalID: 675744953
       vertices: []
       indices: 
       edges: []
@@ -298,7 +276,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 624796c25c9f323469d94f8c6b982bf4
+    spriteID: db295270e65fedb42ae34963a1f28d67
     internalID: 0
     vertices: []
     indices: 
@@ -307,20 +285,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries:
-      - key: SpriteEditor.SliceOnImport
-        value: True
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":58.0},"gridSpriteOffset":{"x":7.0,"y":0.0},"gridSpritePadding":{"x":26.0,"y":0.0},"pivot":{"x":1.0,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":5,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":174.0,"y":176.0},"gridSpriteOffset":{"x":20.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":1.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":2,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      FireWorm_0: -741708457
-      FireWorm_1: -1296705316
-      FireWorm_2: -1374219298
-      FireWorm_3: 1910570641
-      FireWorm_4: 508623803
-      FireWorm_5: 1750426500
-      FireWorm_6: 1126609095
-      FireWorm_7: -854848774
-      FireWorm_8: 2096079461
+      EyeMonster_0: 2057765533
+      EyeMonster_1: 465018684
+      EyeMonster_2: 1795469978
+      EyeMonster_3: -2031067753
+      EyeMonster_4: 588848562
+      EyeMonster_5: 1467590473
+      EyeMonster_6: -839222343
+      EyeMonster_7: 675744953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

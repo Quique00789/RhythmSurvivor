@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ced363a1dd65bb441be1ff112247a750
+guid: d343ec9497ef8c7448bae528488e9ddc
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,199 +97,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FireWorm_0
+      name: OldGuardian_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 42
+        y: 870
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47b349ce133063a4c9494d2aeb91172c
-      internalID: -741708457
+      spriteID: 5eb4833069468e448bf6c038c8832fd8
+      internalID: -370906917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_1
+      name: OldGuardian_1
       rect:
         serializedVersion: 2
-        x: 97
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 28
+        y: 749
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0a95971d11d40f41b002c153c6b34e2
-      internalID: -1296705316
+      spriteID: 65b95f4e846d34e4c89b249df88578c0
+      internalID: 1696934885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_2
+      name: OldGuardian_2
       rect:
         serializedVersion: 2
-        x: 187
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 24
+        y: 628
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3244dc245f07264ba576f4d9eb4fc73
-      internalID: -1374219298
+      spriteID: 6d5acb37b32a7bf46852b6d45fad4e0b
+      internalID: 647779342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_3
+      name: OldGuardian_3
       rect:
         serializedVersion: 2
-        x: 277
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 43
+        y: 509
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97de5565d82367d48b39b76716d855f3
-      internalID: 1910570641
+      spriteID: a356a687f4e344a4fb4491da50fab399
+      internalID: 842569067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_4
+      name: OldGuardian_4
       rect:
         serializedVersion: 2
-        x: 367
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 48
+        y: 389
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 594e9e8425655bb4aa0f2a802dcc4503
-      internalID: 508623803
+      spriteID: 42237f920dd7e6349909eb724894b7b9
+      internalID: 1345089485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_5
+      name: OldGuardian_5
       rect:
         serializedVersion: 2
-        x: 457
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 33
+        y: 269
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58fb158d691385e49aa8a1a3e5410f71
-      internalID: 1750426500
+      spriteID: abb0089b444c44747bac51111071d68a
+      internalID: -1556978956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_6
+      name: OldGuardian_6
       rect:
         serializedVersion: 2
-        x: 547
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 25
+        y: 148
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf7dacb83da1e364aa22f1e0227897ef
-      internalID: 1126609095
+      spriteID: ef499a78dd4cdb3478d8fb0837032b39
+      internalID: -757806613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FireWorm_7
+      name: OldGuardian_7
       rect:
         serializedVersion: 2
-        x: 637
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
+        x: 45
+        y: 29
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fb70cf16bdc199448e2b8700527071e
-      internalID: -854848774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FireWorm_8
-      rect:
-        serializedVersion: 2
-        x: 727
-        y: 32
-        width: 64
-        height: 58
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1295fc54f1769443aefa8ddc8919a6e
-      internalID: 2096079461
+      spriteID: 1b8b261866923c54ba0879ddea707a88
+      internalID: 647431242
       vertices: []
       indices: 
       edges: []
@@ -298,7 +276,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 624796c25c9f323469d94f8c6b982bf4
+    spriteID: ae629d3c63a251f4abad55733827ef3d
     internalID: 0
     vertices: []
     indices: 
@@ -307,20 +285,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries:
-      - key: SpriteEditor.SliceOnImport
-        value: True
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":58.0},"gridSpriteOffset":{"x":7.0,"y":0.0},"gridSpritePadding":{"x":26.0,"y":0.0},"pivot":{"x":1.0,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":5,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      FireWorm_0: -741708457
-      FireWorm_1: -1296705316
-      FireWorm_2: -1374219298
-      FireWorm_3: 1910570641
-      FireWorm_4: 508623803
-      FireWorm_5: 1750426500
-      FireWorm_6: 1126609095
-      FireWorm_7: -854848774
-      FireWorm_8: 2096079461
+      OldGuardian_0: -370906917
+      OldGuardian_1: 1696934885
+      OldGuardian_2: 647779342
+      OldGuardian_3: 842569067
+      OldGuardian_4: 1345089485
+      OldGuardian_5: -1556978956
+      OldGuardian_6: -757806613
+      OldGuardian_7: 647431242
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
