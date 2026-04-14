@@ -27,25 +27,16 @@ namespace Vampire
         [Header("Referencias")]
         [SerializeField] private GameObject mainMenuUI; // El GameObject de tu menú principal
 
-        private void Start()
+        void Start()
         {
+            // Inicializar Unity Services en segundo plano
             StartCoroutine(InitAuth());
         }
 
         private IEnumerator InitAuth()
         {
             yield return AuthManager.Instance.InitializeAsync().AsCoroutine();
-
-            // Si ya tiene sesión activa, saltar login directo
-            if (AuthManager.Instance.IsSignedIn)
-            {
-                OpenMainMenu();
-            }
-            else
-            {
-                loginPanel.SetActive(true);
-                registerPanel.SetActive(false);
-            }
+            // No redirigimos a ningún lado, el menú ya está visible
         }
 
         public void OnLoginPressed()
@@ -149,8 +140,13 @@ namespace Vampire
 
         private void OpenMainMenu()
         {
-            this.gameObject.SetActive(false);    // Oculta el panel de login
-            mainMenuUI.SetActive(true);          // Muestra tu menú principal
+            this.gameObject.SetActive(false); // Oculta el login
+            // Ya no activa el menú principal porque ahora siempre está activo
+        }
+
+        public void Cancelar()
+        {
+            this.gameObject.SetActive(false); // Cierra el LoginUI y vuelve al menú
         }
     }
 }
