@@ -34,10 +34,10 @@ MonoBehaviour:
       dropChance: 0.01
       coinType: 0
   walkSpriteSequence:
-  - {fileID: 917104541, guid: daaedef1b578f44278f11eaff39582d7, type: 3}
-  - {fileID: -1159827789, guid: daaedef1b578f44278f11eaff39582d7, type: 3}
-  - {fileID: -1498753039, guid: daaedef1b578f44278f11eaff39582d7, type: 3}
-  - {fileID: -1711853846, guid: daaedef1b578f44278f11eaff39582d7, type: 3}
+  - {fileID: 588848562, guid: 11c577c6d2ed63943949eb99c4e4f1c2, type: 3}
+  - {fileID: 1467590473, guid: 11c577c6d2ed63943949eb99c4e4f1c2, type: 3}
+  - {fileID: -839222343, guid: 11c577c6d2ed63943949eb99c4e4f1c2, type: 3}
+  - {fileID: 675744953, guid: 11c577c6d2ed63943949eb99c4e4f1c2, type: 3}
   walkFrameTime: 0.15
   boomerangPrefab: {fileID: 7669521032070789568, guid: 1f463c2ded0b041a385a6795f9026ebe, type: 3}
   targetLayer:

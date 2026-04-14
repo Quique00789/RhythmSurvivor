@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8cebba9219e8740668e9101e947a97e4, type: 3}
   m_Name: Test Character Blueprint 2
   m_EditorClassIdentifier: 
-  name: Kael el bat.
+  name: Satyr
   owned: 0
   cost: 20
   hp: 110
@@ -22,10 +22,11 @@ MonoBehaviour:
   luck: 2
   acceleration: 50
   walkSpriteSequence:
-  - {fileID: -1711853846, guid: 8f2f1cdf6848a4a8495353d4eba4ecea, type: 3}
-  - {fileID: 917104541, guid: 8f2f1cdf6848a4a8495353d4eba4ecea, type: 3}
-  - {fileID: -1159827789, guid: 8f2f1cdf6848a4a8495353d4eba4ecea, type: 3}
-  - {fileID: -1498753039, guid: 8f2f1cdf6848a4a8495353d4eba4ecea, type: 3}
+  - {fileID: 1118954569, guid: 0e5851da9cbf36341a39889acedbb603, type: 3}
+  - {fileID: 1823237729, guid: 0e5851da9cbf36341a39889acedbb603, type: 3}
+  - {fileID: -1098108748, guid: 0e5851da9cbf36341a39889acedbb603, type: 3}
+  - {fileID: -1792415773, guid: 0e5851da9cbf36341a39889acedbb603, type: 3}
+  - {fileID: -2043506967, guid: 0e5851da9cbf36341a39889acedbb603, type: 3}
   walkFrameTime: 0.1
   startingAbilities:
   - {fileID: 7378740072262091319, guid: 83d30b9611c244f46b7a4bfc51d0276c, type: 3}

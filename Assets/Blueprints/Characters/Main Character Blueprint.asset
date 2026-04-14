@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8cebba9219e8740668e9101e947a97e4, type: 3}
   m_Name: Main Character Blueprint
   m_EditorClassIdentifier: 
-  name: Blue
+  name: ColorLess
   owned: 1
   cost: 999
   hp: 100
@@ -22,11 +22,10 @@ MonoBehaviour:
   luck: 1
   acceleration: 50
   walkSpriteSequence:
-  - {fileID: 239879506, guid: 0e5851da9cbf36341a39889acedbb603, type: 3}
-  - {fileID: -1098108748, guid: 0e5851da9cbf36341a39889acedbb603, type: 3}
-  - {fileID: -1792415773, guid: 0e5851da9cbf36341a39889acedbb603, type: 3}
-  - {fileID: -2043506967, guid: 0e5851da9cbf36341a39889acedbb603, type: 3}
-  - {fileID: -192258163, guid: 0e5851da9cbf36341a39889acedbb603, type: 3}
+  - {fileID: 1634367477, guid: 26b42dd586281e54b9b50c1d5ca84636, type: 3}
+  - {fileID: 89921209, guid: 684691951925dad4da8e62c45be1d661, type: 3}
+  - {fileID: 1420399571, guid: 32535dd1166011e4888cd42370572436, type: 3}
+  - {fileID: -1765690924, guid: a73deaac53bf2544389917b2a88bd6fc, type: 3}
   walkFrameTime: 0.1
   startingAbilities:
   - {fileID: 7378740072262091319, guid: 6bf0c7ded38f2427f8fbf34693543d88, type: 3}
