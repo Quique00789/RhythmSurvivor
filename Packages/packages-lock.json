@@ -431,6 +431,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.searcher": {
       "version": "4.9.4",
       "depth": 2,
@@ -448,6 +449,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> parent of cfa534b (Merge branch 'feature-mi-parte')
     "com.unity.settings-manager": {
       "version": "2.1.1",
       "depth": 2,

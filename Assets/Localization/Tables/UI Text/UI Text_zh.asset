@@ -27,11 +27,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5889980358656
+<<<<<<< HEAD
     m_Localized: "\u5546\u57CE"
     m_Metadata:
       m_Items: []
   - m_Id: 6373831073792
     m_Localized: "\u5F3A\u5316"
+=======
+    m_Localized: Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6373831073792
+    m_Localized: Mejoras
+>>>>>>> parent of cfa534b (Merge branch 'feature-mi-parte')
     m_Metadata:
       m_Items: []
   - m_Id: 334637481058304

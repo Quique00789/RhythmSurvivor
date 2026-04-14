@@ -11,7 +11,12 @@ namespace Vampire
         [SerializeField] protected CoinDisplay coinDisplay;
 
         private CharacterCard[] characterCards;
+<<<<<<< HEAD
         
+=======
+        private int selectedLevel = 1;
+
+>>>>>>> parent of cfa534b (Merge branch 'feature-mi-parte')
         public void Init()
         {
             characterCards = new CharacterCard[characterBlueprints.Length];
@@ -26,11 +31,27 @@ namespace Vampire
                 characterCards[i].UpdateLayout();
             }
         }
+<<<<<<< HEAD
         
         public void StartGame(CharacterBlueprint characterBlueprint)
         {
             CrossSceneData.CharacterBlueprint = characterBlueprint;
             SceneManager.LoadScene(1);
+=======
+
+        public void SetLevel(int levelIndex)
+        {
+            selectedLevel = levelIndex;
+            // Oculta los botones al seleccionar nivel
+            if (levelSelector != null)
+                levelSelector.SetActive(false);
+        }
+
+        public void StartGame(CharacterBlueprint characterBlueprint)
+        {
+            CrossSceneData.CharacterBlueprint = characterBlueprint;
+            SceneManager.LoadScene(selectedLevel);
+>>>>>>> parent of cfa534b (Merge branch 'feature-mi-parte')
         }
     }
 }
