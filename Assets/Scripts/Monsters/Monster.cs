@@ -84,8 +84,6 @@ namespace Vampire
             // Reset the velocity
             rb.linearVelocity = Vector2.zero;
             StopAllCoroutines();
-            // Disable shadow
-            if (shadow != null) shadow.SetActive(false);
         }
 
         protected virtual void Update()
@@ -152,8 +150,10 @@ namespace Vampire
             if (deathParticles != null)
             {
                 monsterSpriteRenderer.enabled = false;
+                shadow.SetActive(false);
                 yield return new WaitForSeconds(deathParticles.main.duration - 0.15f);
                 monsterSpriteRenderer.enabled = true;
+                shadow.SetActive(true);
             }
             // monsterSpriteRenderer.material = dissolveMaterial;
             // float t = 0;
