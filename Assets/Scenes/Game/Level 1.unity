@@ -2870,6 +2870,7 @@ GameObject:
   - component: {fileID: 856782959}
   - component: {fileID: 856782960}
   - component: {fileID: 856782962}
+  - component: {fileID: 856782962}
   m_Layer: 9
   m_Name: "\u89D2\u8272"
   m_TagString: Untagged
@@ -3202,26 +3203,6 @@ MonoBehaviour:
   hitMaterial: {fileID: 2100000, guid: 82ebeb73078cc4145aa889870d58ae0a, type: 2}
   deathMaterial: {fileID: 2100000, guid: a3417b1068f7c4e129b88a8aa9254c5b, type: 2}
   deathParticles: {fileID: 869581549}
-  IsInvulnerable: 0
---- !u!114 &856782962
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 856782952}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b0244fd9354a831498bd494b773f3261, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Vampire.RhythmDash
-  dashSpeed: 20
-  dashDistance: 5
-  badDashDistance: 2
-  dashDamage: 10
-  invulnerabilityTime: 1.5
-  bpm: 270
-  beatWindow: 0.07
 --- !u!1 &869581548
 GameObject:
   m_ObjectHideFlags: 0
@@ -9164,7 +9145,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1326636460
 Transform:
   m_ObjectHideFlags: 0

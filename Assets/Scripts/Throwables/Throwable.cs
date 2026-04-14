@@ -51,6 +51,8 @@ namespace Vampire
             col.enabled = true;
             OnHitDamageable = new UnityEvent<float>();
             throwTime = ComputeThrowTime();
+            // Disable shadow
+            if (shadowSpriteRenderer != null) shadowSpriteRenderer.enabled = false;
         }
 
         public virtual void Throw(Vector2 toPosition)
