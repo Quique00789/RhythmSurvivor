@@ -59,6 +59,10 @@ namespace Vampire
         public UnityEvent OnDeath { get; } = new UnityEvent();
         public CharacterBlueprint Blueprint { get => characterBlueprint; }
         public Vector2 Velocity { get => rb.linearVelocity; }
+        
+        public bool IsInvulnerable;
+        public Rigidbody2D RB => rb;
+        public EntityManager EntityManager => entityManager;
         // Spatial Hash Grid Client Interface
         public Vector2 Position => transform.position;
         public Vector2 Size => meleeHitboxCollider.bounds.size;
@@ -183,7 +187,7 @@ namespace Vampire
 
         public override void TakeDamage(float damage, Vector2 knockback = default(Vector2))
         {
-            if (alive)
+            if (alive && !IsInvulnerable)
             {
                 // Apply armor
                 if (armor.Value >= damage)
