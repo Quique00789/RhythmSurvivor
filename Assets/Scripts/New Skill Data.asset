@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Vampire.SkillData
   skillId: extra_healt
   displayName: Vitalidad Extra
-  description: 
+  description: "Incrementa tu vida maxima. Aguanta m\xE1s. Muere despu\xE9s."
   cost: 30
   icon: {fileID: 0}
