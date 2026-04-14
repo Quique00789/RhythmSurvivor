@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8cebba9219e8740668e9101e947a97e4, type: 3}
   m_Name: Test Character Blueprint 2
   m_EditorClassIdentifier: 
-  name: Satyr
+  name: Test
   owned: 0
-  cost: 20
+  cost: 799
   hp: 110
   recovery: 0
   armor: 0
